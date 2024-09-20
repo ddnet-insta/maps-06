@@ -3,4 +3,5 @@ pvp maps for ctf, gctf, ictf and deathmatch
 
 - **ctf_aurochs** by Pathos and jao
 - **ictf_trash3_v4** by mind
+- **ctf_rabyte** by ChillerDragon
 
