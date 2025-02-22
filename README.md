@@ -8,3 +8,4 @@ pvp maps for ctf, gctf, ictf and deathmatch
 - **ctf_rabyte** by ChillerDragon
 - **ctf1left** by matricks, Pathos, and jao
 - **ctf_horny** by unknown and refactored by zhn
+- **ctf_sunrise_dry** by unknown and refactored by zhn
