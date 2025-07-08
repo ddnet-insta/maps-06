@@ -10,3 +10,4 @@ pvp maps for ctf, gctf, ictf and deathmatch
 - **ctf_horny** by unknown and refactored by zhn
 - **ctf_sunrise_dry** by unknown and refactored by zhn
 - **ctf_cryochasm** by purrp T
+- **ctf_Exeliar** by purrp T
